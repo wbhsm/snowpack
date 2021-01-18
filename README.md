@@ -24,3 +24,4 @@ Snowpack is a lightning-fast frontend build tool, designed to leverage JavaScrip
 
 > **Contributor Guidelines:** [CONTRIBUTING.md](./CONTRIBUTING.md)  
 > **License:** [MIT](https://github.com/snowpackjs/snowpack/blob/main/LICENSE)
+#1
